@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Python程序设计(2019 Fall)
 
-You can use the [editor on GitHub](https://github.com/kuan-li/kuan-li.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 1 教学大纲（[download](syllabus_python_2019.pdf)，updated 2019.9.15）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2 上课内容
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+（1） 2019.9.23 2:30pm-5:10pm 6A309 Python基础介绍（[slides](lesson1_intro.pdf))，codes([TempConv.py](TempConv.py), [CalcCos.py](CalcCos.py), [CalcMean.py](CalcMean.py)) , 如何在windows上安装python ( [pdf](install_python37_for_windows.pdf) , ==NEW!==)
 
-```markdown
-Syntax highlighted code block
+（2） 2019.9.29 10:25am-12:00am 6A309 开发环境安装配置，计算机操作基础
 
-# Header 1
-## Header 2
-### Header 3
+（3） 2019.9.30 4:25pm-6:05pm 6A309 Python语法基础 ([slides](python_elements.pdf), ==NEW!==)
 
-- Bulleted
-- List
+### 3 网络资料
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kuan-li/kuan-li.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-  [廖雪峰的Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
+-  https://github.com/vinta/awesomepython
+-  https://www.practicepython.org/
+-  MOOC课程（北京理工） https://www.icourse163.org/course/BIT-268001

@@ -11,7 +11,11 @@
 
 （3） 2019.9.30 4:25pm-6:05pm 6A309 Python语法基础 ([slides](data/python_elements.pdf))
 
-（4） 2019.10.12 4:25pm-6:05pm 6A309 字符串 ([slides](data/python_elements2.pdf), [codes](data/string_codes.zip)), python编程实训．[提示：课前测验]
+（4） 2019.10.12(国庆调课) 4:25pm-6:05pm 6A309 字符串 ([slides](data/python_elements2.pdf), [codes](data/string_codes.zip)), python编程实训．[提示：课前测验]
+
+（5） 2019.10.14 4:25pm-6:05pm 6A309 流程控制之分支结构 ([slides](data/L5_workflow_if/python_if.pdf), [codes](data/L5_workflow_if/codes.zip))
+
+
 
 ### 3 网络资料
 

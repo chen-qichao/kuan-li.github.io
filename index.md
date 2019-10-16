@@ -15,6 +15,8 @@
 
 （5） 2019.10.14 4:25pm-6:05pm 6A309 流程控制之分支结构 ([slides](data/L5_workflow_if/python_if.pdf), [codes](data/L5_workflow_if/codes.zip))
 
+（6） 2019.10.21 4:25pm-6:05pm 6A309 流程控制之循环结构 ([slides](data/L6_workflow_loop/workflow_loop.pdf), [codes](data/L6_workflow_loop/workflow_loop.zip)) , 2课时讲授，1课时实训 [提示：课前测验]
+
 
 
 ### 3 网络资料

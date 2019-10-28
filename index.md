@@ -17,7 +17,7 @@
 
 （6） 2019.10.21(调课到2019.10.25)  4:25pm-6:05pm 6A309 流程控制之循环结构 ([slides](data/L6_workflow_loop/workflow_loop.pdf), [codes](data/L6_workflow_loop/codes_workflow_loop.zip)) , 2课时讲授，1课时实训 [提示：课前测验]
 
-（7） 2019.10.28 4:25pm-6:05pm 6A309 数据结构(列表与元组) ([slides](data/L7_workflow_list_tuple/list-tuple.pdf), [codes](data/L7_workflow_list_tuple/list-tuple-py-src.zip)) , 2课时讲授，1课时实训
+（7） 2019.10.28 4:25pm-6:05pm 6A309 数据结构(列表,元组,字典与集合) ([slides1_list_tuple](data/L7_workflow_list_tuple/list-tuple.pdf), [slides2_dict_set](data/L7_workflow_list_tuple/dict-set.pdf), [codes1](data/L7_workflow_list_tuple/list-tuple-py-src.zip),[codes2](data/L7_workflow_list_tuple/dict-set-py-src.zip)) , 3课时讲授，课下实训
 
 
 ### 3 网络资料

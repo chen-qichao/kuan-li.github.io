@@ -19,6 +19,8 @@
 
 （7） 2019.10.28 4:25pm-6:05pm 6A309 数据结构(列表,元组,字典与集合) ([slides1_list_tuple](data/L7_workflow_list_tuple/list-tuple.pdf), [slides2_dict_set](data/L7_workflow_list_tuple/dict-set.pdf), [codes1](data/L7_workflow_list_tuple/list-tuple-py-src.zip),[codes2](data/L7_workflow_list_tuple/dict-set-py-src.zip)) , 3课时讲授，课下实训
 
+（8） 2019.11.04 4:25pm-6:05pm 6A309 数据结构相关与函数 ([slides](data/L8_func/func.pdf), [codes](data/L8_func/func_src.zip)) , 2课时讲授，1课时实训 [提示:课前测验]
+
 
 ### 3 网络资料
 
